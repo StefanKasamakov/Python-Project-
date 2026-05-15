@@ -11,7 +11,6 @@
 Файлове:
 - models.py -> съдържа класа Product
 - main.py -> главна програма
-- requirements.txt -> използвани библиотеки
 
 Стартиране:
 python main.py
